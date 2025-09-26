@@ -1,0 +1,1 @@
+resource "random_uuid" "storage_account_id" {}
